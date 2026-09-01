@@ -339,7 +339,7 @@ Applications should report the ESI components, preserve the meaning of the measu
 
 ## Citation
 
-If this analysis or ESI is used, please cite the manuscript above. Replace this section with the journal citation and DOI after publication.
+If this analysis or ESI is used, please cite the manuscript above. The journal citation and DOI will be updated after publication.
 
 ## Questions and contact
 
