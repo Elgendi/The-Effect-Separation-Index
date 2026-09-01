@@ -7,7 +7,7 @@
 
 This repository contains the complete reproducible analysis for:
 
-> Elgendi, M. *The Effect Separation Index: A Composite Diagnostic for Evaluating Group Separation Across Measurement Scales.*
+> Elgendi, M. *The Effect Separation Index: A Composite Diagnostic for Evaluating Group Separation Across Measurement Scales* Communications AI & Computing.
 
 The repository is intentionally minimal. The single notebook downloads the public datasets, executes the simulations and real-data analyses, generates every main and supplementary figure, creates the manuscript tables and source-data workbook, validates the required outputs, and packages the results.
 
